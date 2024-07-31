@@ -3,8 +3,6 @@
 
 ## Output
 
-\/\/\/\/\/
 ROCK,
 PAPER,
 SCISSORS,
-\/\/\/\/\/
