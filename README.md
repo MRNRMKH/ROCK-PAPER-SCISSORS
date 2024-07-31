@@ -31,7 +31,7 @@ play again(y/n) : y
 Choice among (rock[r],paper[p],scissors[s]) : s
 Valid
 \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
-user choice is _SCISSORS_ and computer choice is _SCISSORS_
+user choice is _SCISSORS_ and computer choice is _SCISSORS_        
 \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 Tie
 play again(y/n)n
